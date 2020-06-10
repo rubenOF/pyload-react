@@ -2,10 +2,20 @@
   "name": "pyload-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/app/",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.5",
+    "cogo-toast": "^4.1.1",
+    "history": "^4.9.0",
+    "mdbootstrap": "^4.8.7",
+    "mdbreact": "^4.20.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "universal-cookie": "^4.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
